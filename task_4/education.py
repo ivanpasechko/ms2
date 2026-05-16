@@ -37,3 +37,4 @@ class Postgraduate(Student):
         elif 0 < self.gpa < 5.0:
             return 6000
         return 0
+        

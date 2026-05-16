@@ -5,4 +5,4 @@ def is_palindrome(text: str) -> bool:
 
 if __name__ == "__main__":
     print(is_palindrome("А роза упала на лапу Азора"))  
-    print(is_palindrome("hello"))                      
+    print(is_palindrome("hello"))   

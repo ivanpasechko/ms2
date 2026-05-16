@@ -16,3 +16,4 @@ if __name__ == "__main__":
     print("Без пробелов:", no_spaces)
     print("Без буквы 'a':", no_starts_with_a)
     print("Длина >= 5:", long_strings)
+    
